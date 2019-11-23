@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row" ng-app="TraineeApp">
+    <div class="col" ng-controller="TraineCtrl">
+        <h2>Trainee List</h2>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-light">
+                <tr>
+                    <th>Traine. Name</th>
+                    <th>Contact</th>
+                    <th>TID</th>
+                    <th>TSP</th>
+                    <th>Batch</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="tr in model.trainees">
+                    <td>{{tr.traineeName}}</td>
+                    <td>{{tr.contact}}</td>
+                    <td>{{tr.tid}}</td>
+                    <td>{{tr.tsp}}</td>
+                    <td>{{tr.batchName}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts{ 
+    <environment include="Development, Production">
+        <script src="~/lib/angular/angular.js"></script>
+        <script>
+            angular.module("TraineeApp", [])
+                .controller("TraineCtrl", ($scope, $http) => {
+                $scope.model = {};
+                $http.get("/Angular/SPA/TraineeList")
+                .then((result) => {
+                    $scope.model.trainees =result.data;
+                    //console.log(result.data)
+                }, (err) => {
+                    $scope.model.trainees = [];
+                    console.log(err);
+                });
+            });
+        </script>
+    </environment>
+}
+

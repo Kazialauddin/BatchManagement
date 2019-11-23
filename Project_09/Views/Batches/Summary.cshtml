@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Project_09.ViewModels.BatchVM>
+
+@{
+    ViewData["Title"] = "Summary";
+}
+<div class="row">
+    <div class="col-12">
+        <h3>Batch Summary</h3>
+        <div class="btn-toolbar d-flex justify-content-end mb-1">
+            <div class="mr-1 mb-0" id="loading" style="display:none">
+                <i class="fa fa-spinner fa-spin"></i>
+            </div>
+            <form class="form-inline" data-ajax="true" data-ajax-mode="replace"
+                  data-ajax-update="#holder" asp-action="Summary" asp-controller="Batches"
+                  method="post" enctype="multipart/form-data">
+                <div class="input-group">
+                    
+                    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+                        <div class="input-group">
+
+                            <input name="search" type="text" class="form-control form-control-sm" placeholder="Batch name..">
+                        </div>
+
+
+
+
+
+                        <div class="input-group-append">
+                            <div class="input-group-append">
+                                <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-search"></i></button>
+                                <a class="btn btn-primary btn-sm ml-1"
+                                   data-ajax="true"
+                                   data-ajax-loading="#loading"
+                                   data-ajax-mode="replace"
+                                   data-ajax-update="#holder"
+                                   href='@Url.Action("Summary", "Batches")'>
+                                    <i class="fa fa-refresh"></i>
+
+                                </a>
+                            </div>
+
+                        </div>
+                    </nav>
+                </div>
+            </form>
+
+
+
+        </div>
+
+        <div id="holder">
+
+            @await Html.PartialAsync("_BatchSummary", Model)
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <environment include="Development">
+
+        <script src="~/lib/ajax/dist/jquery.unobtrusive-ajax.js"></script>
+    </environment>
+}
+@section Styles{
+    <environment include="Development">
+        <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+
+    </environment>
+}

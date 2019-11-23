@@ -1,0 +1,147 @@
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.deps.json
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.json
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.dev.json
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.dll
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csprojAssemblyReference.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CoreCompileInputs.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfoInputs.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfo.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.input.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.output.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorCoreGenerate.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cache
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cs
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.pdb
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.dll
+D:\R-39\Projectss\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.pdb
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.Views.pdb
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.dll
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.pdb
+D:\R-39\Projectss\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CopyComplete
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.deps.json
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.json
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.dev.json
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.dll
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.pdb
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.dll
+J:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.pdb
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CoreCompileInputs.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfoInputs.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfo.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.input.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.output.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorCoreGenerate.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Summary.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cache
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.Views.pdb
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.dll
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.pdb
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CopyComplete
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csprojAssemblyReference.cache
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.deps.json
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.json
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.dev.json
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.dll
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.pdb
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.dll
+E:\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.pdb
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CoreCompileInputs.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfoInputs.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfo.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.input.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.output.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorCoreGenerate.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Create.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Summary.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cache
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cs
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.Views.pdb
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.dll
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.pdb
+E:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CopyComplete
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Create.g.cshtml.cs
+J:\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_success.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.deps.json
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.json
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.runtimeconfig.dev.json
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.dll
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.pdb
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.dll
+F:\All Projects\Batch_Management\Project_09\bin\Debug\netcoreapp2.2\Project_09.Views.pdb
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csprojAssemblyReference.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CoreCompileInputs.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorAssemblyInfo.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfoInputs.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.AssemblyInfo.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.input.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.TagHelpers.output.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorCoreGenerate.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\SPA\Index.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewImports.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewStart.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Create.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Delete.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Edit.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Index.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Batches\Summary.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_BatchSummary.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_success.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Trainees\Create.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Trainees\Delete.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Trainees\Details.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Trainees\Edit.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\Trainees\Index.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cache
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.RazorTargetAssemblyInfo.cs
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.Views.pdb
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.dll
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.pdb
+F:\All Projects\Batch_Management\Project_09\obj\Debug\netcoreapp2.2\Project_09.csproj.CopyComplete
